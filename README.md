@@ -1,5 +1,7 @@
 # Hi, I'm Yutai 👋
 
+[![My GitFut card](https://raw.githubusercontent.com/Yutai007/gitfut/master/public/cards/profile-card.png)](https://github.com/Yutai007/gitfut)
+
 ![](https://github.com/Yutai007/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Yutai007/github-stats/blob/master/generated/languages.svg)
 
