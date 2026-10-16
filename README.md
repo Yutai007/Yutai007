@@ -9,4 +9,4 @@
 
 [![Personal Website](https://img.shields.io/badge/About%20Me-orange)](https://yutailong.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yutai-long)
-[![My Newest Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.23308593.svg)](https://doi.org/10.5281/zenodo.23308593)
+[![My Newest Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.23328685.svg)](https://doi.org/10.5281/zenodo.23328685)
